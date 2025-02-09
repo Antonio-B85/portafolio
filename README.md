@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-###Antonio Benavides
+###Ana García
 
-### Linkedin: https://www.linkedin.com/in/antoniobenavidesc/
+### Linkedin: https://www.linkedin.com/school/aluracursos/
